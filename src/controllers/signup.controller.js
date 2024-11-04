@@ -117,7 +117,7 @@ class signupControllers {
       console.log("checking if the user exists");
       // const check = await signup.findOne({ username : id});
       // console.log("check : ",check);
-      // if (check == null) {
+      // if (check == null) {n
       //   return response.error(res, 404, "the user does not exist");
       // }
       if (op === "add") {
